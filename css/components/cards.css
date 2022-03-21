@@ -1,0 +1,39 @@
+.container h2 {
+  padding-top: 50px;
+  font-size: 28px;
+  color: #2C061F;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 0 100px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  width: 220px;
+  height: 250px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgba(44, 6, 31, 0.2);
+  text-align: center;
+}
+
+.card h4 {
+  padding: 20px 0;
+  font-size: 20px;
+}
+
+.card p {
+  padding-bottom: 50px;
+  color: #374045;
+}

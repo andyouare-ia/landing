@@ -1,0 +1,15 @@
+.icon-svg:hover {
+  filter: invert(56%) sepia(47%) saturate(710%) hue-rotate(360deg) brightness(96%) contrast(101%);
+}
+
+i {
+  font-size: 35px;
+  color: #fff;
+  padding: 0px 30px;
+}
+
+.fa-heart {
+  color: red;
+  padding: 0;
+  font-size: 14px;
+}
